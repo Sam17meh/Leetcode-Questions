@@ -32,3 +32,15 @@ problems/
 2. Put your solution in that folder
 3. Commit and push to GitHub
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
