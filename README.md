@@ -39,6 +39,7 @@ problems/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -75,4 +76,12 @@ problems/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
