@@ -84,4 +84,8 @@ problems/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
