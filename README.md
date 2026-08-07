@@ -41,6 +41,7 @@ problems/
 | [0001-two-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,20 @@ problems/
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
