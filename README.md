@@ -41,6 +41,7 @@ problems/
 | [0001-two-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -108,4 +109,12 @@ problems/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
