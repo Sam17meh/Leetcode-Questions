@@ -11,7 +11,6 @@ class Solution {
             }
             numToIndex.put(nums[i], i);
         }
-        // The problem guarantees exactly one solution, so we don't need to handle no-solution cases
         return new int[] {};
     }
 }
