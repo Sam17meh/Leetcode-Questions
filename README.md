@@ -29,7 +29,7 @@ problems/
 ## Quick start
 
 1. Add a new problem folder under `problems/`
-2. Put your solution in that folder
+2. Put your solutions in that folder
 3. Commit and push to GitHub
 
 
