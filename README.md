@@ -43,6 +43,7 @@ problems/
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -91,6 +92,7 @@ problems/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
