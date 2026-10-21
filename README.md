@@ -49,6 +49,7 @@ problems/
 | [0240-search-a-2d-matrix-ii](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1572-matrix-diagonal-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -142,4 +143,5 @@ problems/
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
