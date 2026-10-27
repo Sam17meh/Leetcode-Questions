@@ -83,6 +83,7 @@ problems/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +114,7 @@ problems/
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
