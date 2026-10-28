@@ -42,6 +42,7 @@ problems/
 | [0004-median-of-two-sorted-arrays](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ problems/
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Sorting
