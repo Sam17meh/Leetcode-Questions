@@ -87,6 +87,7 @@ problems/
 | [0002-add-two-numbers](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
