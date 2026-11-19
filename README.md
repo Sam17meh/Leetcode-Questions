@@ -65,6 +65,7 @@ problems/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -154,4 +155,12 @@ problems/
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Sam17meh/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sam17meh/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
